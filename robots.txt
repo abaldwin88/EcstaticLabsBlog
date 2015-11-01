@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://blog.ecstaticlabs.com/EcstaticLabsBlog/sitemap.xml 
+Sitemap: http://blog.ecstaticlabs.com/sitemap.xml 

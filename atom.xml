@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[ecstatic labs blog]]></title>
-  <link href="http://blog.ecstaticlabs.com/EcstaticLabsBlog/atom.xml" rel="self"/>
-  <link href="http://blog.ecstaticlabs.com/EcstaticLabsBlog/"/>
-  <updated>2015-10-27T22:06:33-04:00</updated>
-  <id>http://blog.ecstaticlabs.com/EcstaticLabsBlog/</id>
+  <title><![CDATA[Ecstatic Labs Blog]]></title>
+  <link href="http://blog.ecstaticlabs.com/atom.xml" rel="self"/>
+  <link href="http://blog.ecstaticlabs.com/"/>
+  <updated>2015-11-01T09:38:52-05:00</updated>
+  <id>http://blog.ecstaticlabs.com/</id>
   <author>
     <name><![CDATA[Ecstatic Labs]]></name>
     
@@ -15,14 +15,12 @@
   
   <entry>
     <title type="html"><![CDATA[First Octopress Post]]></title>
-    <link href="http://blog.ecstaticlabs.com/EcstaticLabsBlog/blog/2015/10/27/first-octopress-post/"/>
+    <link href="http://blog.ecstaticlabs.com/2015/10/27/first-octopress-post/"/>
     <updated>2015-10-27T16:19:35-04:00</updated>
-    <id>http://blog.ecstaticlabs.com/EcstaticLabsBlog/blog/2015/10/27/first-octopress-post</id>
+    <id>http://blog.ecstaticlabs.com/2015/10/27/first-octopress-post</id>
     <content type="html"><![CDATA[<p>This is the first post of the ecstatic labs new blog platform using octopress.</p>
 
 <p>This is the first test update of a post.</p>
-
-<p>This is the second test update of a post.</p>
 ]]></content>
   </entry>
   
